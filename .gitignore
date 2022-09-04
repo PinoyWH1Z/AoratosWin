@@ -1,0 +1,4 @@
+.vs/*
+bin/Debug/*
+bin/Release/*
+obj/*
